@@ -163,10 +163,5 @@ The crisis also impacted the platform's most engaged customers. Active customers
 
 <img width="1756" height="806" alt="image" src="https://github.com/user-attachments/assets/94463612-7251-479b-9aab-6260fa413ec6" />
 
-
-
-
-
-
-
+<br><br><br><br>
 **Daksh Jakhar**
