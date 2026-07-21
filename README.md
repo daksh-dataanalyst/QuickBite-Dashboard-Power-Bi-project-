@@ -165,5 +165,3 @@ The crisis also impacted the platform's most engaged customers. Active customers
 
 
 **Daksh Jakhar**
-
-**Skills:** Power BI • SQL • DAX • Power Query • Excel
