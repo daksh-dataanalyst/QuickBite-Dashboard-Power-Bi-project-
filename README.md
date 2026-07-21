@@ -135,25 +135,25 @@ The crisis also impacted the platform's most engaged customers. Active customers
 
 ---
 
-## 🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 
-### 📈 Executive Summary
+## 📈 Executive Summary
 <img width="1433" height="802" alt="image" src="https://github.com/user-attachments/assets/091fb7f3-da53-4210-8112-7f1cf65e1fae" />
 
 
-### 👥 Customer Insights
+## 👥 Customer Insights
 <img width="1423" height="797" alt="image" src="https://github.com/user-attachments/assets/5e9cc441-7133-47cb-8703-2066c05d53d9" />
 
 
-### 🍽️ Restaurant Performance
+## 🍽️ Restaurant Performance
 <img width="1441" height="807" alt="image" src="https://github.com/user-attachments/assets/95f3066b-812f-4934-a602-9d660955220f" />
 
 
-### 🚚 Operations & Delivery
+## 🚚 Operations & Delivery
 <img width="1423" height="797" alt="image" src="https://github.com/user-attachments/assets/49bf6926-edaa-4edb-a160-ce62f3658f8f" />
 
 
-### 💬 Customer Feedback & Sentiment
+## 💬 Customer Feedback & Sentiment
 <img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/e1693f83-5a29-4c3a-a184-e8a6a893426a" />
 
 
@@ -165,7 +165,5 @@ The crisis also impacted the platform's most engaged customers. Active customers
 
 
 **Daksh Jakhar**
-
-Aspiring Data Analyst | Power BI Developer
 
 **Skills:** Power BI • SQL • DAX • Power Query • Excel
